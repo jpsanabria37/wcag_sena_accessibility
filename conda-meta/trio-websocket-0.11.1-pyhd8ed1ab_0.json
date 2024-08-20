@@ -1,0 +1,142 @@
+{
+  "build": "pyhd8ed1ab_0",
+  "build_number": 0,
+  "channel": "https://conda.anaconda.org/conda-forge/noarch",
+  "constrains": [],
+  "depends": [
+    "exceptiongroup",
+    "python >=3.7",
+    "trio >=0.11",
+    "wsproto >=0.14"
+  ],
+  "extracted_package_dir": "C:\\Users\\Juan Pablo\\anaconda3\\pkgs\\trio-websocket-0.11.1-pyhd8ed1ab_0",
+  "files": [
+    "Lib/site-packages/trio_websocket-0.11.1.dist-info/INSTALLER",
+    "Lib/site-packages/trio_websocket-0.11.1.dist-info/LICENSE",
+    "Lib/site-packages/trio_websocket-0.11.1.dist-info/METADATA",
+    "Lib/site-packages/trio_websocket-0.11.1.dist-info/RECORD",
+    "Lib/site-packages/trio_websocket-0.11.1.dist-info/REQUESTED",
+    "Lib/site-packages/trio_websocket-0.11.1.dist-info/WHEEL",
+    "Lib/site-packages/trio_websocket-0.11.1.dist-info/direct_url.json",
+    "Lib/site-packages/trio_websocket-0.11.1.dist-info/top_level.txt",
+    "Lib/site-packages/trio_websocket/__init__.py",
+    "Lib/site-packages/trio_websocket/_impl.py",
+    "Lib/site-packages/trio_websocket/_version.py",
+    ".nonadmin",
+    "Lib/site-packages/trio_websocket/__pycache__/__init__.cpython-312.pyc",
+    "Lib/site-packages/trio_websocket/__pycache__/_impl.cpython-312.pyc",
+    "Lib/site-packages/trio_websocket/__pycache__/_version.cpython-312.pyc"
+  ],
+  "fn": "trio-websocket-0.11.1-pyhd8ed1ab_0.conda",
+  "license": "MIT",
+  "link": {
+    "source": "C:\\Users\\Juan Pablo\\anaconda3\\pkgs\\trio-websocket-0.11.1-pyhd8ed1ab_0",
+    "type": 1
+  },
+  "md5": "020557a424faf98154938da4426fe987",
+  "name": "trio-websocket",
+  "noarch": "python",
+  "package_tarball_full_path": "C:\\Users\\Juan Pablo\\anaconda3\\pkgs\\trio-websocket-0.11.1-pyhd8ed1ab_0.conda",
+  "package_type": "noarch_python",
+  "paths_data": {
+    "paths": [
+      {
+        "_path": "site-packages/trio_websocket-0.11.1.dist-info/INSTALLER",
+        "path_type": "hardlink",
+        "sha256": "d0edee15f91b406f3f99726e44eb990be6e34fd0345b52b910c568e0eef6a2a8",
+        "sha256_in_prefix": "d0edee15f91b406f3f99726e44eb990be6e34fd0345b52b910c568e0eef6a2a8",
+        "size_in_bytes": 5
+      },
+      {
+        "_path": "site-packages/trio_websocket-0.11.1.dist-info/LICENSE",
+        "path_type": "hardlink",
+        "sha256": "2d5e3fc506b6c87ad93b77b9aa76009a58fea72be5fb56e6803bc08cb2887999",
+        "sha256_in_prefix": "2d5e3fc506b6c87ad93b77b9aa76009a58fea72be5fb56e6803bc08cb2887999",
+        "size_in_bytes": 1080
+      },
+      {
+        "_path": "site-packages/trio_websocket-0.11.1.dist-info/METADATA",
+        "path_type": "hardlink",
+        "sha256": "59fa2aece82a4c8dc4d083eb36dacba2a1eb93169bd3eb0749b18ea72ba861d9",
+        "sha256_in_prefix": "59fa2aece82a4c8dc4d083eb36dacba2a1eb93169bd3eb0749b18ea72ba861d9",
+        "size_in_bytes": 4674
+      },
+      {
+        "_path": "site-packages/trio_websocket-0.11.1.dist-info/RECORD",
+        "path_type": "hardlink",
+        "sha256": "26237c21aa874ee134371e817dead4cf3cdb73b05664b5b7a1ef7944d5fc5a36",
+        "sha256_in_prefix": "26237c21aa874ee134371e817dead4cf3cdb73b05664b5b7a1ef7944d5fc5a36",
+        "size_in_bytes": 1136
+      },
+      {
+        "_path": "site-packages/trio_websocket-0.11.1.dist-info/REQUESTED",
+        "path_type": "hardlink",
+        "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "sha256_in_prefix": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "size_in_bytes": 0
+      },
+      {
+        "_path": "site-packages/trio_websocket-0.11.1.dist-info/WHEEL",
+        "path_type": "hardlink",
+        "sha256": "c903798389a0e00c9b4639208bef72cb889010589b1909a5cfbf0f8a4e4eafe0",
+        "sha256_in_prefix": "c903798389a0e00c9b4639208bef72cb889010589b1909a5cfbf0f8a4e4eafe0",
+        "size_in_bytes": 92
+      },
+      {
+        "_path": "site-packages/trio_websocket-0.11.1.dist-info/direct_url.json",
+        "path_type": "hardlink",
+        "sha256": "76beeb90107078cd3efe8c3c666ef0b52ba29d8041b15118a46bd21100c2d7b2",
+        "sha256_in_prefix": "76beeb90107078cd3efe8c3c666ef0b52ba29d8041b15118a46bd21100c2d7b2",
+        "size_in_bytes": 115
+      },
+      {
+        "_path": "site-packages/trio_websocket-0.11.1.dist-info/top_level.txt",
+        "path_type": "hardlink",
+        "sha256": "43594fb6d2a769d4e15eca5125a8161f4406c65bbd18a786d5a7b988ed9a3c03",
+        "sha256_in_prefix": "43594fb6d2a769d4e15eca5125a8161f4406c65bbd18a786d5a7b988ed9a3c03",
+        "size_in_bytes": 15
+      },
+      {
+        "_path": "site-packages/trio_websocket/__init__.py",
+        "path_type": "hardlink",
+        "sha256": "a2f9f53370ae8535b62050fc9d7c12037905192f202c4df2aa196f1af63136a5",
+        "sha256_in_prefix": "a2f9f53370ae8535b62050fc9d7c12037905192f202c4df2aa196f1af63136a5",
+        "size_in_bytes": 434
+      },
+      {
+        "_path": "site-packages/trio_websocket/_impl.py",
+        "path_type": "hardlink",
+        "sha256": "8f1e1d054b3109193cadec3b939bf52510c888577435fb4a7f429ccad2cb0d52",
+        "sha256_in_prefix": "8f1e1d054b3109193cadec3b939bf52510c888577435fb4a7f429ccad2cb0d52",
+        "size_in_bytes": 57128
+      },
+      {
+        "_path": "site-packages/trio_websocket/_version.py",
+        "path_type": "hardlink",
+        "sha256": "dd35a413b4f426dff42525d1f049b7caa68ce38ded96493108f757bd2767cc13",
+        "sha256_in_prefix": "dd35a413b4f426dff42525d1f049b7caa68ce38ded96493108f757bd2767cc13",
+        "size_in_bytes": 23
+      },
+      {
+        "_path": "Lib/site-packages/trio_websocket/__pycache__/__init__.cpython-312.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/trio_websocket/__pycache__/_impl.cpython-312.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/trio_websocket/__pycache__/_version.cpython-312.pyc",
+        "path_type": "pyc_file"
+      }
+    ],
+    "paths_version": 1
+  },
+  "requested_spec": "None",
+  "sha256": "c6f4453ee5116a584c347c40e60a61fac645ce203c8bea245bb72c3a865b04cf",
+  "size": 30714,
+  "subdir": "noarch",
+  "timestamp": 1695817030000,
+  "url": "https://conda.anaconda.org/conda-forge/noarch/trio-websocket-0.11.1-pyhd8ed1ab_0.conda",
+  "version": "0.11.1"
+}

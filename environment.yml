@@ -1,0 +1,9 @@
+name: wcag_sena_accessibility_envs
+channels:
+  - defaults
+dependencies:
+  - python=3.12
+  - flask
+  - selenium
+  - pymongo
+prefix: C:\Users\Juan Pablo\anaconda3\envs\wcag_sena_accessibility_envs
