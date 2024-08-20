@@ -4,7 +4,19 @@
 __pycache__/
 .ipynb_checkpoints/
 .vscode/
-.DS_Store
+.idea/
+.conda/
+*.dll
+*.exe
+*.pdb
+*.so
+*.dylib
+python.exe.c~conda_trash
+python3.dll.c~conda_trash
+
+# Ignorar dependencias de Node.js
+node_modules/
 
 # Ignorar configuraciones del sistema operativo
 Thumbs.db
+.DS_Store
